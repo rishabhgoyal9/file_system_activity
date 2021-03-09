@@ -1,0 +1,1 @@
+fs.copyFileSync(input[0] , input[2] );

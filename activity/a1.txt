@@ -1,0 +1,9 @@
+a1 hu m 
+a1 wala
+
+
+a1     batch
+
+
+hi hello from a1
+F:\PAB_DEV\wcat_hw\activity\a2.txt
